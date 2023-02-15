@@ -1,0 +1,10 @@
+{
+	"apiVersion": 2,
+	"name": "mkaz/copyright-block",
+	"title": "Copyright Block",
+	"category": "widgets",
+	"icon": "smiley",
+	"description": "Insert Copyright with current year",
+	"textdomain": "copyright-block",
+	"editorScript": "file:./index.js"
+}
